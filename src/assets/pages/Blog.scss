@@ -1,0 +1,11 @@
+.blog {
+  header {
+    background-image: none;
+    height: fit-content;
+  }
+  .main_blog {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    padding: 5% 10%;
+  }
+}

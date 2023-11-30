@@ -1,0 +1,14 @@
+.btn {
+  color: #219653;
+  text-decoration: none;
+  padding: 0.5em 1em;
+  border-radius: 10px;
+  border: 3px solid #6fcf97;
+  font-family: "Roboto-Bold";
+  display: inline-block;
+
+  &:hover {
+    color: white;
+    background-color: #219653;
+  }
+}

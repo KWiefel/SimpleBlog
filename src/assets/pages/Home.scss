@@ -1,0 +1,19 @@
+header {
+  background-image: url(./../img/background_header.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 50vh;
+}
+
+.opener {
+  padding: 10% 15%;
+
+  h1 {
+    font-family: "Roboto-Bold";
+    font-size: 2rem;
+    font-weight: 900;
+    width: 15ch;
+    color: #0d4625;
+    margin-bottom: 32px;
+  }
+}
